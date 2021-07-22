@@ -1,4 +1,7 @@
 #info {
+  font-size: 3.5em;
+}
+#info {
   text-align: center;
 }
 
@@ -10,22 +13,16 @@
 em {
   font-weight: 500;
 }
-
 body {
   color: #414042;
-  margin: auto;
 }
-
 span {
   font-weight: 150;
 }
-
 a:visited {
   color: violet;
 }
-
 #data-cn {
   font-weight: 500;
   font-style: italic;
 }
-
