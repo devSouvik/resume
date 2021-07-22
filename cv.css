@@ -4,15 +4,22 @@
 
 .h6 {
   color: #0070c0;
+  font-weight: 900;
 }
 
 em {
   font-weight: 500;
 }
+
 body {
   color: #414042;
   margin: auto;
 }
+
 span {
   font-weight: 150;
+}
+
+a:visited {
+  color: violet;
 }
